@@ -1,0 +1,66 @@
+ID,Service,ParentID,CategoryID
+1,Virtual Machines,null,1
+2,"A8, A9 (Compute Intensive)",1,1
+3,D-series,1,1
+4,G-series,1,1
+5,Instance Level IPs,1,1
+6,Reserved IP,1,1
+7,Cloud Services,null,1
+8,"A8, A9 (Compute Intensive)",7,1
+9,D-series,7,1
+10,Instance Level IPs,7,1
+11,Reserved IP,7,1
+12,RemoteApp,null,1
+13,Batch,null,1
+14,App Service,null,2
+15,Web Apps,14,2
+16,Mobile Apps,14,2
+17,API Apps,14,2
+18,Logic Apps,14,2
+19,Mobile Services,null,2
+20,API Management,null,2
+21,Notification Hubs,null,2
+22,Mobile Engagement,null,2
+23,SQL Database,null,3
+24,SQL Database Management Portal,23,3
+25,SQL Data Sync,23,3
+26,Storage,null,3
+27,Import/Export,26,3
+28,Premium Storage,26,3
+29,Managed Cache,null,3
+30,Redis Cache,null,3
+31,StorSimple,null,3
+32,DocumentDB,null,3
+33,Azure Search,null,3
+34,SQL Data Warehouse,null,3
+35,HDInsight,null,4
+36,Machine Learning,null,4
+37,Event Hubs,null,4
+38,Data Factory,null,4
+39,Stream Analytics,null,4
+40,Data Catalog,null,4
+41,Virtual Network,null,5
+42,Traffic Manager,null,5
+43,ExpressRoute,null,5
+44,DNS,null,5
+45,Load Balancer,null,5
+46,VPN Gateway,null,5
+47,Application Gateway,null,5
+48,Media Services,null,6
+49,Encoding,48,6
+50,Live and On-Demand Streaming,48,6
+51,CDN,null,6
+52,BizTalk Services,null,7
+53,Service Bus,null,7
+54,Backup,null,7
+55,Site Recovery,null,7
+56,Azure Active Directory,null,8
+57,Multi-Factor Authentication,null,8
+58,Visual Studio Online,null,9
+59,Build,58,9
+60,Load Test,58,9
+61,Visual Studio Application Insights,null,9
+62,Scheduler,null,10
+63,Automation,null,10
+64,Operational Insights,null,10
+65,Key Vault,null,10
